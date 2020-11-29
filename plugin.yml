@@ -1,0 +1,5 @@
+name: AirDrop
+main: Bestaford\AirDrop\AirDrop
+api: 3.0.1
+version: 1.0
+author: Bestaford
